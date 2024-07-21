@@ -1,10 +1,17 @@
-<h1 align="center">MERN Netflix Clone 🎬</h1>
+<h1 align="center">Netflix Clone 🎬</h1>
+
+![Screenshot 2024-07-21 221345](https://github.com/user-attachments/assets/393c92fa-4964-482e-b3b5-ab22cdfe2ba1)
+
+The Netflix Clone project is a web application designed to mimic the functionality and user experience of the popular streaming service, Netflix. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), this project demonstrates a comprehensive implementation of a modern, full-stack web application.
+
+<h2>Live link 🌍 - [  https://netflix-clone-a5qe.onrender.com/  ]</h2>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/0Kzd4k1YuCA)
 
-About This Course:
+![Screenshot 2024-07-21 223119](https://github.com/user-attachments/assets/a5866322-a3d1-420c-b8c5-8bac4ea03401)
+
+
 
 -   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
 -   🔐 Authentication with JWT
@@ -17,7 +24,6 @@ About This Course:
 -   💙 Awesome Landing Page
 -   🌐 Deployment
 -   🚀 And Many More Cool Features
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
 
 ### Setup .env file
 
@@ -29,43 +35,11 @@ JWT_SECRET = your_jwt_secret;
 TMDB_API_KEY = your_tmdb_api_key;
 ```
 
-### Run this app locally
 
-```shell
-npm run build
-```
+## Contact
+If you have any questions or feedback, feel free to reach out:
+- LinkedIn : https://www.linkedin.com/in/yashk9293/
+- GitHub : https://github.com/yashk9293
 
-### Start the app
-
-```shell
-npm run start
-```
-
-## `Timestamps` for your convenience:
-
--   00:00:00 - App Showcase
--   00:07:50 - Backend Setup
--   00:23:00 - Database (MongoDB) Setup
--   00:35:54 - Signup Logic in Backend
--   00:54:26 - Generate JWT
--   01:02:40 - Logout Logic in Backend
--   01:04:30 - Login Logic in Backend
--   01:08:30 - A Quick Recap
--   01:11:25 - Fetching Movies From API
--   01:42:00 - Fetchin TV Shows From API
--   01:48:50 - Protecting Routes (Middleware)
--   01:59:15 - Search Routes
--   02:28:52 - Frontend Setup
--   02:41:45 - Signup Page and Login Page UI Design
--   02:55:25 - Auth Screen UI Design
--   03:28:30 - Signup, Login, Logout Functionality
--   04:03:45 - Building the Home Screen
--   05:13:00 - Building the Watch Page
--   05:49:50 - Building the Search Page
--   06:05:20 - Building the Search History Page
--   06:14:55 - Building a Custom 404 Page
--   06:18:55 - Testing Our App and Small Fixes
--   06:24:40 - Detailed Deployment Guide
--   06:48:53 - Oops! I almost forgot this... bye
-
-### I'll see you in the next one! 🚀
+<h3>💖Like my work?</h3>
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️.
